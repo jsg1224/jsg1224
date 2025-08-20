@@ -1,5 +1,5 @@
 ### 👋 Persistent improvement from a zero-base
-
+in progress..
 <!-- 
 **jsg1224/jsg1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
